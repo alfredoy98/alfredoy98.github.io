@@ -9,6 +9,9 @@ h1 {
   background-color:#00C5CD;
   color: black;
 }
+h1 {
+    font-size: 70px;
+}
 
 h2 {
   background-color: #00C5CD;
@@ -17,15 +20,12 @@ h2 {
     background-image: url("gradient_bg.png");
     background-repeat: repeat-x;
 }
+h2 {
+    font-size: 30px;
+}    
 
 <head>
 <style>
-h1 {
-    font-size: 70px;
-}
-
-h2 {
-    font-size: 30px;
 input.MyButton {
 width: 300px;
 padding: 20px;
