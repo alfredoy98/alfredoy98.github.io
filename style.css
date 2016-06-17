@@ -1,3 +1,5 @@
+h3 {
+  text-align: center;
 h2 {
   text-align: center;
 }
@@ -14,8 +16,6 @@ h1 {
 h2 {
   background-color: #00C5CD;
   color: black;
-h3 {
-  text-align: center;
 <head>
 <style>
 input.MyButton {
