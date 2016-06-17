@@ -13,6 +13,11 @@ h1 {
 h2 {
   background-color: #00C5CD;
   color: black;
+  body {
+    background-image: url("gradient_bg.png");
+    background-repeat: repeat-x;
+}
+
 <head>
 <style>
 input.MyButton {
