@@ -23,7 +23,9 @@ h2 {
 h2 {
     font-size: 50px;
 }    
-
+p {
+  font-size: 50px;
+}
 <head>
 <style>
 input.MyButton {
