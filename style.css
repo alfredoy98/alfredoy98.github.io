@@ -20,6 +20,12 @@ h2 {
 
 <head>
 <style>
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
 input.MyButton {
 width: 300px;
 padding: 20px;
