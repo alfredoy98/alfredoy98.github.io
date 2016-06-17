@@ -41,8 +41,8 @@ border-radius: 10px;
 box-shaddow: 6px 6px 5px; #999999;
 }
 input.MyButton:hover {
-color: #FFFF00;
-background: #3366CC;
+color: #000000;
+background: #00C5CD;
 border: 1px solid #A3A3A3;
 -webkit-box-shadow: 2px 2px 5px #666666;
 -moz-box-shadow: 2px 2px 5px #666666;
